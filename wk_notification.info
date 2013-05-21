@@ -1,0 +1,8 @@
+name = Wonkenstein Notifications
+description = notifications
+core = 7.x
+package = Wonkenstein
+dependencies[] = field
+files[] = wk_notification.test
+configure = admin/structure/wk_notification/manage
+
