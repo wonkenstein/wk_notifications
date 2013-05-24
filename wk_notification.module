@@ -1,5 +1,5 @@
 <?php
-
+// Adding comment
 /**
  * @file
  * Implements the basic functionality required to create and display an entity.
